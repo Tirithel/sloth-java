@@ -19,6 +19,7 @@
     * IDE, I personally will be using:
         https://code.visualstudio.com/docs/languages/java
     * Git (I think VS Code includes this, but make sure you have it.)
+        How to use git: https://learngitbranching.js.org/
 
  Questions? Reach out to Tirithel#6109 on Discord.
 ```
