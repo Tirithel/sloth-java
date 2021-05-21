@@ -180,5 +180,5 @@ ______________________________
 Assignments
 -----------
 
-- Homework: Answer the questions found in `../homework.md`.
-- Lab: Write a program that performs a mathematical operation and then ouputs the results. The lab details can be found in `../lab.md`
+- Homework: Answer the questions found in `../../homework.md`.
+- Lab: Write a program that performs a mathematical operation and then ouputs the results. The lab details can be found in `../../lab.md`
