@@ -12,14 +12,14 @@ Understanding the Basics
 3. What `Type` would be used to store the value for the `number of apples` we can buy with our allowance?
 ```java
 ```
-4. What `Type` would be used to store the `amount of Bitcoin` it   takes to purchase a Tesla? (Assume not awhole number.
+4. What `Type` would be used to store the `amount of Bitcoin` it takes to purchase a Tesla? (Assume not a whole number).
 ```java
 ```
 5. What `Type` would be used to store a simple `text message` between friends?
 ```java
 ```
 ### Variables
-1. Define `Variable` as it relates to programming. What does this   represent as it relates to computation?
+1. Define `Variable` as it relates to programming. What does this represent as it relates to computation?
 ```java
 ```
 2. In a statically typed language, which two components are needed to declare a variable?
@@ -34,7 +34,7 @@ Understanding the Basics
 5. Declare and assign a variable for a `text message`.
 ```java
 ```
-6. Declare a variable that will hold `all of the Bitcoin` we will   earn from learning to program.
+6. Declare a variable that will hold `all of the Bitcoin` we will earn from learning to program.
 ```java
 ```
 ### Operators
