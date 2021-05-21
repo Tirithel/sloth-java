@@ -1,4 +1,4 @@
-Intro to Java
+Programming in Java
 =========================
 This repository will be updated to contain:
 
