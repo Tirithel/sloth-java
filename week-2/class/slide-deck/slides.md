@@ -224,5 +224,4 @@ ______________________________
 Assignments
 -----------
 
-- Homework: Answer the questions found in `../../homework.md`.
 - Lab: Write a program that calculates an employees wages. The lab details can be found in `../../lab.md`
