@@ -9,7 +9,7 @@ Intermediate Lab:
 
 Compute the position (y) of a falling object.
 
->Hint: x(t) = 0.5 * at^2 +v_it + x_i
+>Hint: x(t) = 0.5at<sup>2</sup> +v<sub>0</sub>t + x<sub>0</sub>
 
 -----------------------
 Challenge Lab:
