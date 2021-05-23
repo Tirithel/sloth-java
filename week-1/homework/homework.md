@@ -20,7 +20,7 @@ Understanding the Basics
 ```
 ### Variables
 1. Define `Variable` as it relates to programming. What does this represent as it relates to computation?
-```java
+```markdown
 ```
 2. In a statically typed language, which two components are needed to declare a variable?
 ```markdown

@@ -22,7 +22,7 @@ Expectations
 ------------
 - Assignments are designed to reinforce what we learned in class. If you don't feel the need to do them, you don't have to. This class is designed to give you back what you put into it. 
 
-- Dont hesitate to reach out with questions, [well formatted](https://www.freecodecamp.org/news/how-to-ask-good-questions-as-a-developer-9f71ff809b63/
+- Don't hesitate to reach out with questions, [well formatted](https://www.freecodecamp.org/news/how-to-ask-good-questions-as-a-developer-9f71ff809b63/
 ) questions will be answered to the best of my ability. It is my request that before asking questions outside of class hours, an effort was put in to understanding the problem.
 
 - Test driven development is practiced when it makes sense.
@@ -90,7 +90,7 @@ Where does Java fit in?
 - It has some added complexities compared to Python
 - It is simpler than C/C++
   
-When we write our programs in `.java` files, we are going to use a command called `javac` to compile them into ***Byte Code***. ***Byte Code*** is stored in a `.class` file. In order to run the program we wrote, the JVM (Java Virtual Machine) interpriates the `.class` file and allows our program to execute.
+When we write our programs in `.java` files, we are going to use a command called `javac` to compile them into ***Byte Code***. ***Byte Code*** is stored in a `.class` file. In order to run the program we wrote, the JVM (Java Virtual Machine) interprets the `.class` file and allows our program to execute.
 
 After you clone this git project, you will be able to access our application.
 
@@ -116,7 +116,7 @@ public final class App {
 }
 ```
 
-The pieces that we care most about right now are the `class name`, and `statements` as these are the most fundimental parts of the program structure.
+The pieces that we care most about right now are the `class name`, and `statements` as these are the most fundamental parts of the program structure.
 
 ```java
 public final class CLASSNAME {
