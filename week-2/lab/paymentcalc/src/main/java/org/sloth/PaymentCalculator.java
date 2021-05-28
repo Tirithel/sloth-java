@@ -11,6 +11,6 @@ public class PaymentCalculator
     }
 
     public static void calculatePay(double d, int i) {
-        //throw new UnsupportedOperationException("Not implemented yet.");
+        throw new UnsupportedOperationException("Not implemented yet.");
     }
 }

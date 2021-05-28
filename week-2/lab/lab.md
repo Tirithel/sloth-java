@@ -16,13 +16,17 @@ Maximum working hours is 60 hours a week (let us know if he's overworked, and ma
 Test cases being evaluated:
 
 Employee: Makes $7.50, worked 45 hours.
+
 Output: "Underpaid employee: Employee made $356.25 by working 45 hours."
 
 Employee: Makes $8.00, worked 40 hours.
+
 Output: "Employee made $320.00 by working 40 hours."
 
 Employee: Makes $8.50, worked 55 hours.
+
 Output: "Employee made $541.25 by working 55 hours."
 
 Employee: Makes $8.50, worked 61 hours.
+
 Output: "Overworked employee: Employee made $595.00 by working 61 hours."
