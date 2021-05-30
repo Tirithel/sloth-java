@@ -25,7 +25,7 @@ Output: "Employee made $320.00 by working 40 hours."
 
 Employee: Makes $8.50, worked 55 hours.
 
-Output: "Employee made $541.25 by working 55 hours."
+Output: "Employee made $531.25 by working 55 hours."
 
 Employee: Makes $8.50, worked 61 hours.
 
