@@ -122,7 +122,7 @@ public class AppTest
         App.calculatePay(overtimeEmployee.wage, overtimeEmployee.hours);
         String result = outContent.toString();
         
-        assertTrue("HINT: Roger's earnings aren't being calculated properly.", result.contains("541.25"));
+        assertTrue("HINT: Roger's earnings aren't being calculated properly.", result.contains("531.25"));
     }
 
     @Test
@@ -131,7 +131,7 @@ public class AppTest
         App.calculatePay(overtimeEmployee.wage, overtimeEmployee.hours);
         String result = outContent.toString();
 
-        assertTrue("HINT: Roger's output may be formatted incorrectly.", result.contains("Employee made $541.25 by working 55 hours."));
+        assertTrue("HINT: Roger's output may be formatted incorrectly.", result.contains("Employee made $531.25 by working 55 hours."));
     }
 
     @Test

@@ -5,10 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.sloth</groupId>
-  <artifactId>lab2-solution</artifactId>
+  <artifactId>paymentcalc-solution</artifactId>
   <version>1.0-SNAPSHOT</version>
 
-  <name>lab2-solution</name>
+  <name>paymentcalc-solution</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 

@@ -60,7 +60,7 @@ while (i < 3) {
 Let's do the above but with a for loop.
 
 ```java
-for (INIT; CONDITION, UPDATE) {
+for (INIT; CONDITION; UPDATE) {
     // Statements
 }
 ```
